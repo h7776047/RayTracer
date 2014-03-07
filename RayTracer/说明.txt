@@ -1,0 +1,9 @@
+github一直保持最新:https://github.com/billhsu/RayTracer
+
+w,s,a,d前后左右，
+j,k旋转，
+esc退出，
+p渲染声音。
+IMU串口读取已经集成。
+
+许仕鹏
